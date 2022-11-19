@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 19 Nov 2022 11:06:40 at https://themesflat.com/html/modaz/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesflat.com/html/modaz/index.html -O1 "C:\My Web Sites\modaz" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:09:02	Warning: 	File not parsed, looks like binary: https://themesflat.com/html/modaz/fonts/fontawesome-webfont.woff2?v=4.6.3
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/stylesheets/images/ui-icons_444444_256x240.png (from https://themesflat.com/html/modaz/stylesheets/jquery-ui.css)
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/stylesheets/images/ui-icons_555555_256x240.png (from https://themesflat.com/html/modaz/stylesheets/jquery-ui.css)
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/stylesheets/images/ui-icons_ffffff_256x240.png (from https://themesflat.com/html/modaz/stylesheets/jquery-ui.css)
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/stylesheets/images/ui-icons_777620_256x240.png (from https://themesflat.com/html/modaz/stylesheets/jquery-ui.css)
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/stylesheets/images/ui-icons_cc0000_256x240.png (from https://themesflat.com/html/modaz/stylesheets/jquery-ui.css)
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/stylesheets/images/ui-icons_777777_256x240.png (from https://themesflat.com/html/modaz/stylesheets/jquery-ui.css)
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/stylesheets/fonts/flexslider-icon.eot (from https://themesflat.com/html/modaz/stylesheets/flexslider.css)
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/stylesheets/fonts/flexslider-icon.eot? (from https://themesflat.com/html/modaz/stylesheets/flexslider.css)
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/stylesheets/fonts/flexslider-icon.woff (from https://themesflat.com/html/modaz/stylesheets/flexslider.css)
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/stylesheets/fonts/flexslider-icon.ttf (from https://themesflat.com/html/modaz/stylesheets/flexslider.css)
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/stylesheets/fonts/flexslider-icon.svg (from https://themesflat.com/html/modaz/stylesheets/flexslider.css)
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/stylesheets/owl.video.play.png (from https://themesflat.com/html/modaz/stylesheets/owl.carousel.css)
+11:09:02	Error: 	"Not Found" (404) at link https://themesflat.com/html/modaz/img/star.png (from https://themesflat.com/html/modaz/stylesheets/woocommerce.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 22 seconds : 300 links scanned, 286 files written (10590825 bytes overall) [8481484 bytes received at 59728 bytes/sec], 3196008 bytes transferred using HTTP compression in 98 files, ratio 26%, 100.0 requests per connection
+(13 errors, 1 warnings, 0 messages)
